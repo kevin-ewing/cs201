@@ -1,0 +1,17 @@
+ffmpeg,1000,200
+calc,10,5
+convert,200
+backup,1000
+quantumsimulation,500,30
+raw2jpg,100,60
+compressoldfiles,1500,300
+fantasypred,300,500
+genartassignment,1200,10
+calcarea,20,110
+fibonacci,80,200
+helloworld,10
+crowdanalysis,2000,45
+facedetect,300,40
+ffmpeg,1100,200
+pytorch,3000,400
+imagemagick,250
